@@ -17,7 +17,7 @@ body {
 	margin: 0;
 }
 
-#app {
+/* #app {
 	display: flex;
 	flex-direction: column;
 	min-height: 100vh;
@@ -43,4 +43,4 @@ main {
 		color: #ccc;
 		background-color: #1a1a1a;
 	}
-}
+} */
